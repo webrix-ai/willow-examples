@@ -1,0 +1,16 @@
+{
+  "name": "@willow-examples/api-key-mcp-express",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A Proxy API Key MCP server example for Willow.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
